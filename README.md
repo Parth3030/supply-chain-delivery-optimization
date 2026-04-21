@@ -156,6 +156,8 @@ Three actionable fixes with cost, impact, and ROI
 **Page 2: Shipping Mode Deep Dive**
 ![Shipping Mode Analysis](dashboard/page2_shipping_mode_analysis.png)
 
+---
+
 ## Business Recommendations
 
 ### Recommendation 1: Fix First Class Scheduling (£0 cost)
