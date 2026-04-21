@@ -212,8 +212,6 @@ fulfillment capacity confirmed
 
 ---
 
----
-
 ## Key Takeaway
 
 A 57.82% late delivery rate sounds like a complex logistics 
