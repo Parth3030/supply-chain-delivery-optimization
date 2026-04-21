@@ -16,7 +16,9 @@ across all 5 global markets, for 4 consecutive years.
 This scheduling misconfiguration caused 26,513 unnecessary 
 late deliveries and is fixable at zero operational cost.
 
+**Also see:** [Project 1 — E-Commerce Customer Retention Analysis](https://github.com/Parth3030/ecommerce-customer-retention-analysis)
 ---
+
 
 ## Problem Statement
 
